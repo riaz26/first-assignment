@@ -216,3 +216,52 @@ body {
     padding-left: 375px;
     padding-right: 375px;
 }
+
+.input-field {
+    background-color: #FFF4D6;
+    padding-top: 76px;
+    padding-bottom: 76px;
+    padding-left: 260px;
+    margin-left: 316px;
+    margin-right: 315px;
+}
+
+.input-email {
+    font-size: 18px;
+    color: #AA9F9F;
+    background-color: #D9D9D9;
+    border: 0;
+    border-radius: 5px;
+    width: 240px;
+    height: 40px;
+    padding-left: 15px;
+}
+
+.input-submit {
+    font-size: 18px;
+    color: white;
+    background-color: #FF5959;
+    border: 0;
+    border-radius: 5px;
+    width: 132px;
+    height: 42px;
+    padding-left: 5px;
+}
+
+/* footer section  */
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 120px;
+    padding: 43px 629px 42px 653px;
+}
+
+footer h1 {
+    color: #FF5959;
+}
+
+footer p {
+    color: #D9DBE1;
+}
