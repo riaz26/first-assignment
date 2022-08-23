@@ -1,4 +1,218 @@
 /* google font  */
 body {
     font-family: 'Fjalla One', sans-serif;
+    margin: 0;
+}
+
+/* home page style  */
+
+#first-section {
+    background-image: url(images/donation5.jpg);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 760px;
+
+}
+
+.home-page {
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+    background-size: 100%;
+    height: 561px;
+    text-align: center;
+    color: white;
+    padding-left: 307px;
+    padding-right: 307px;
+    padding-top: 200px;
+}
+
+.home-page h1 {
+    font-size: 36px;
+}
+
+.home-page p {
+    margin-bottom: 30px;
+}
+
+.link-button {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px 35px;
+    border-radius: 10px;
+}
+
+
+/* donate today section  */
+
+#donate-section {
+    margin-top: 130px;
+    margin-bottom: 150px;
+}
+
+.donate-today {
+    text-align: center;
+}
+
+.donate-today h1 {
+    font-size: 60px;
+}
+
+.donate-today p {
+    font-size: 16px;
+    color: #707070;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.donate-amount {
+    display: flex;
+    gap: 24px;
+    font-size: 26px;
+    color: #707070;
+    padding-left: 350px;
+
+}
+
+.donate-amount h1 {
+    background-color: #FAFAFA;
+    padding: 40px 20px;
+}
+
+.highlight-amount {
+    color: #FF5959;
+    border: 3px solid #FF5959;
+    border-radius: 5px;
+}
+
+.other-amount {
+    margin-top: 60px;
+    padding-left: 338px;
+}
+
+.others-amount {
+    text-align: center;
+    color: #B3B3B3;
+    font-size: 18px;
+    font-weight: 300;
+    border-bottom: 1px solid #DADADA;
+    width: 765px;
+    margin-bottom: 40px;
+}
+
+.second-link-button {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px 35px;
+    border-radius: 10px;
+    margin-left: 648px;
+}
+
+
+/* Our Donate Plan */
+
+.donate-plan {
+    text-align: center;
+    padding-left: 375px;
+    padding-right: 374px;
+    margin-bottom: 60px;
+}
+
+.donate-plan h1 {
+    font-size: 60px;
+}
+
+.donate-plan p {
+    font-size: 16px;
+    color: #707070;
+}
+
+#donate-plan-section {
+    margin-bottom: 120px;
+}
+
+.donate-category {
+    display: flex;
+    gap: 24px;
+    padding-left: 180px;
+}
+
+.category-one {
+    background-color: #4F9DA61A;
+    width: 360px;
+    height: 352px;
+    padding-left: 26px;
+    padding-right: 18px;
+    padding-top: 70px;
+}
+
+.category-one h1 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.category-one p {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.category-two {
+    background-color: #FF59591A;
+    width: 360px;
+    height: 352px;
+    padding-left: 26px;
+    padding-top: 70px;
+}
+
+.category-two h1 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.category-two p {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.category-three {
+    background-color: #FFF4D6;
+    width: 360px;
+    height: 352px;
+    padding-left: 26px;
+    padding-top: 70px;
+}
+
+.category-three h1 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.category-three p {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+/* update section  */
+
+.update-info {
+    text-align: center;
+}
+
+.update-info h1 {
+    font-size: 50px;
+}
+
+.update-info p {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 375px;
+    padding-right: 375px;
 }
