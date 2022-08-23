@@ -81,9 +81,11 @@ body {
 }
 
 .highlight-amount {
+    background-color: #FDEDEC;
     color: #FF5959;
     border: 3px solid #FF5959;
     border-radius: 5px;
+    padding: 40px 20px;
 }
 
 .other-amount {
