@@ -248,6 +248,59 @@ body {
     padding-left: 5px;
 }
 
+
+/* about section  */
+
+#about-section-bg {
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 150px;
+}
+
+.about-section {
+    display: flex;
+}
+
+.about-us {
+    text-align: center;
+    color: #154360;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.about {
+    width: 50%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.about-img {
+    width: 50%;
+}
+
+.about-first {
+    background-color: #D5F5E3;
+    color: #1C2833;
+    font-weight: 300;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 10px;
+}
+
+.about-second {
+    background-color: #FEF9E7;
+    color: #6E2C00;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 10px;
+}
+
+.about-three {
+    background-color: #FDEBD0;
+    color: #154360;
+    padding: 20px 20px 20px 20px;
+}
+
+
 /* footer section  */
 
 footer {
